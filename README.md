@@ -1,4 +1,4 @@
-# Deprecation notice
+# Put down notice
 
 This is now an automatic package managed elsewhere, not in this repository.
 
